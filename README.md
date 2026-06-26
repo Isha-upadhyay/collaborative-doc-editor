@@ -21,7 +21,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Framework:** [Next.js 15](https://nextjs.org/) (App Router, Server Actions)
+- **Framework:** [Next.js 16](https://nextjs.org/) (App Router, Server Actions)
 - **Database:** [PostgreSQL](https://www.postgresql.org/) (hosted on [Neon](https://neon.tech/))
 - **ORM:** [Prisma](https://www.prisma.io/)
 - **CRDT Engine:** [Yjs](https://docs.yjs.dev/)
