@@ -2,7 +2,8 @@
 
 **Collaborativa** is a modern, local-first document editor built for real-time collaboration and seamless offline editing. It ensures that your work is never blocked by network latency or internet outages. By leveraging Conflict-Free Replicated Data Types (CRDTs), it guarantees deterministic merges without data loss, whether you are online or offline.
 
-![Collaborativa Cover](https://via.placeholder.com/1000x500.png?text=Collaborativa+-+Local-First+Editor)
+![Collaborativa Cover](<img width="1915" height="997" alt="image" src="https://github.com/user-attachments/assets/7c2db7dc-fe25-4cd7-8e77-b3297bd9ca8b" />
+)
 
 ---
 
