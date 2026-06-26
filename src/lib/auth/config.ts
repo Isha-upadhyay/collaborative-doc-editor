@@ -21,6 +21,7 @@ if (originalDeleteSession) {
 }
 
 export const authConfig = {
+  trustHost: true,
   adapter: customAdapter,
   providers: [
     GoogleProvider({
